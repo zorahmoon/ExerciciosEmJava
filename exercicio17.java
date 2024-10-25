@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ContarVogais {
+public class exercicio17 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
